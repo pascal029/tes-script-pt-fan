@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "nama": "Ananda Bayu",
+      "email": "bayu@email.com",
+      "npp": "12345",
+      "npp_supervisor": "11111",
+      "password": "password"
+    },
+    {
+      "nama": "Supervisor",
+      "email": "spv@email.com",
+      "npp": "11111",
+      "npp_supervisor": "",
+      "password": "password"
+    }
+  ]
+}
